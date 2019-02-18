@@ -1,0 +1,8 @@
+{
+	"port" : "8080",
+	"host" : "localhost",
+    "user" : "project3428b",
+    "password" : "project3428b",
+    "database" : "project3428b",
+	"secretKey" : "TEAMBLUEHASH1919291"
+ }	
