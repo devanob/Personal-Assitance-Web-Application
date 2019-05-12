@@ -1,0 +1,2 @@
+# Personal-Assitance-Web-Application
+This Web Application Written Node.Js, Front End Javascript, CSS, HMTL, JQuery. Single Page App. This application was written For  NorthWood Client As Part As An OpenSource Application. Feature Real Time Messaging, Memos, Live Event Handier, Relaxation. This Application was created with the elderly in mind. With Block Text, Static Non-Flashing Colours. Styling Can Easily Be Overrided With  Css 
